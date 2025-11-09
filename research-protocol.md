@@ -1,4 +1,4 @@
-# A Systematic Protocol for Research Excellence
+# Speaking Through Research: A Systematic Protocol for Research Excellence
 
 This protocol adapts Patrick Winston's framework for effective communication from his MIT lecture "How to Speak" to the domain of academic research and writing. It posits that success in research is determined by the ability to communicate findings (through writing and presentation), the quality of ideas, and rigorous methodology, in that order. The core principle is that research and writing are learnable skills, not just innate talents. The formula for success is: Success = Knowledge + Practice + (small t) talent.
 
