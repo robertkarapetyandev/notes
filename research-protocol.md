@@ -1,10 +1,10 @@
-# Speaking Through Research: A Systematic Protocol for Research Excellence
+## Speaking Through Research: A Systematic Protocol for Research Excellence
 
 This protocol adapts Patrick Winston's framework for effective communication from his MIT lecture "How to Speak" to the domain of academic research and writing. It posits that success in research is determined by the ability to communicate findings (through writing and presentation), the quality of ideas, and rigorous methodology, in that order. The core principle is that research and writing are learnable skills, not just innate talents. The formula for success is: Success = Knowledge + Practice + (small t) talent.
 
 The primary goal of this protocol is to guide researchers in packaging and presenting ideas in a way that ensures they are understood, valued, and accepted by the academic community. It addresses the core problem of how to conduct systematic research and structure a paper to maximize impact.
 
-## 1. How to Start: Initiating the Research Process
+### 1. How to Start: Initiating the Research Process
 
 The primary goal at the start is to define a clear research question and provide motivation for pursuing it, engaging stakeholders (e.g., advisors, funders, or peers) from the outset.
 
@@ -14,7 +14,7 @@ The primary goal at the start is to define a clear research question and provide
   - **Don't:** Start with vague or overly broad topics without clear relevance. Avoid jumping into data collection without a hypothesis.
   - **Do:** Clearly state the research question, its significance (e.g., addressing a gap in the literature), and the expected outcomes. This provides incentive for collaboration or funding. Conduct a preliminary literature review to map the landscape and refine the question.
 
-## 2. Core Heuristics: Managing the Research Workflow and Reader Attention
+### 2. Core Heuristics: Managing the Research Workflow and Reader Attention
 
 These techniques ensure the research process is efficient and the paper maintains reader engagement, acknowledging that attention spans vary and complex ideas need reinforcement.
 
@@ -23,7 +23,7 @@ These techniques ensure the research process is efficient and the paper maintain
 - **Verbal Punctuation (Adapted to Writing):** Use clear signposts like section headings, subheadings, and enumeration ("First... Second... Third..."). This creates "seams" in the paper, allowing readers who lose focus to re-engage easily.
 - **Asking Questions:** Incorporate rhetorical questions or problem statements in the paper to re-engage readers (e.g., "What if traditional models fail?"). During research, pose iterative questions to guide experimentation and analysis.
 
-## 3. The Tools of the Trade (and Their Mechanisms)
+### 3. The Tools of the Trade (and Their Mechanisms)
 
 Analyze and select tools for data collection, analysis, and presentation, considering their effects on the research process and reader comprehension.
 
@@ -45,7 +45,7 @@ Analyze and select tools for data collection, analysis, and presentation, consid
     - **Clutter:** Eliminate unnecessary elements like excessive citations in the main text, complex backgrounds in figures, or redundant sections. Use large, clear fonts and simple layouts to enforce brevity.
     - **Distractions:** Avoid over-relying on appendices or footnotes that break flow.
 
-## 4. Special Cases: Applying the Protocol
+### 4. Special Cases: Applying the Protocol
 
 Adapt the system for specific research goals or paper types.
 
@@ -60,7 +60,7 @@ Adapt the system for specific research goals or paper types.
   - **Mechanism:** Use the "Winston Star"—a 5-point heuristic for packaging ideas.
   - **Components:** Symbol (a visual icon, like a model diagram), Slogan (a catchy phrase, like "one-shot inference"), Surprise (unexpected findings), Salient Idea (a single core concept), and Story (narrative arc of the research journey).
 
-## 5. How to Stop: Concluding the Research and Paper
+### 5. How to Stop: Concluding the Research and Paper
 
 The conclusion is prime "real estate" to reinforce impact and leave a lasting impression.
 
