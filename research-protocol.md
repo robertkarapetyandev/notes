@@ -12,7 +12,7 @@ The primary goal at the start is to define a clear research question and provide
 - **Mechanism:** Begin with an "empowerment promise." Articulate what new knowledge or capability the research will deliver.
 - **Nuts and Bolts:**
   - **Don't:** Start with vague or overly broad topics without clear relevance. Avoid jumping into data collection without a hypothesis.
-  - **Do:** Clearly state the research question, its significance (e.g., addressing a gap in the literature), and the expected outcomes. This provides incentive for collaboration or funding. Conduct a preliminary literature review to map the landscape and refine the question.
+  - **Do:** Clearly state the research question, its significance (e.g., addressing a gap in the literature), and the expected outcomes. This provides incentive for collaboration. Conduct a preliminary literature review to map the landscape and refine the question.
 
 ### 2. Core Heuristics: Managing the Research Workflow and Reader Attention
 
